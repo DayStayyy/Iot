@@ -51,3 +51,4 @@ ON met également un delais de 700 millisecondes entre chaque signal.
 ![image](https://user-images.githubusercontent.com/80094480/160457531-08d6e7e5-6524-4150-ba60-decd5d27dca3.png)
 
 
+Nous avons également une version de notre projet aynt une fonctionalité sonore (dossier morse_traductor_audio), mais cette dernière ne fonctionne pas.
