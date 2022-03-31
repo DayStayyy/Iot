@@ -6,6 +6,8 @@
 
 #### Notre projet consiste a écrire du texte sur putty, texte qui sera envoyé a la carte,qui traduira le texte en morse via une led
 
+### Vous pouvez regarder la vidéo présente dans le git pour avoir un aperçus du projet.
+
 ## Avant propos
 On active l’USAR2 via cubemx, il faudra configurer le putty avec le même valeurs
 (on doit également trouver le port de la carte stm32 via le gestionnaire de périphérique) :
